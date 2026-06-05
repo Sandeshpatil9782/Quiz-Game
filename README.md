@@ -2,8 +2,8 @@
 
 ## 🚀 Live Game
 
-👉 Play here:  
-https://Sandeshpatil9782.github.io/quiz-game/
+👉 Play here: <br/>
+    [https://sandeshpatil9782.github.io/Quiz-Game/]
 
 
 ---
